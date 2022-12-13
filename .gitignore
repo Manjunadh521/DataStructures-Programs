@@ -1,0 +1,101 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@Manjunadh521 
+Manjunadh521
+/
+M1_ProjectGoal_App
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+M1_ProjectGoal_App/.gitignore
+@Manjunadh521
+Manjunadh521 commit
+Latest commit 282a307 on Feb 11
+ History
+ 1 contributor
+56 lines (48 sloc)  459 Bytes
+
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.out
+*.ko
+*.obj
+*.elf
+*.gcov
+*.gcda
+*.gcno
+
+# Linker output
+*.ilk
+*.map  
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+M1_ProjectGoal_App/.gitignore at main · Manjunadh521/M1_ProjectGoal_App
